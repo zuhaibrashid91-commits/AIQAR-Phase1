@@ -1,2 +1,2 @@
 # AIQAR-Phase1
-AI Real Estate Lead genration System
+   Description: "AI-Powered Real Estate Lead Generation System"
